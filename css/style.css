@@ -1,3 +1,24 @@
+.navStyle {
+	box-shadow: 0 1px 5px -1px rgba(146, 201, 251, 0.62);
+}
+
+.projectIntro {
+	position:absolute;
+	 background: rgba(21, 21, 21, 0.52);	 
+    border-radius:20px;
+	 height: 250px;
+    width: 250px;
+	 z-index:1;
+}
+
+.projectPic {
+	height: 250px;
+    width: 250px;
+    background: #ddd;
+    border-radius:20px;
+    z-index:-1;
+}
+
 .bg {
        background-color: #ffffff;
 }
@@ -10,8 +31,8 @@
     border:none;
 }
 
-.author{
-	color:green;
+.intro{
+	color:white;
 }
 
 .darkgrey{

@@ -11,7 +11,9 @@
 	 z-index:1;
 }
 
-
+.border{
+    border-radius:20px;
+}
 
 .projectPic {
 	height: 250px;
